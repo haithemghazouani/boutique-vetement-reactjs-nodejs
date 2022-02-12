@@ -1,0 +1,26 @@
+.vit {
+    position: absolute;
+    width:20px;
+    padding: 2cm;
+    padding-left: 10cm;
+    left: 1cm;
+}
+.phot{
+  width:30vmax;
+  height: 30vmax;
+
+}
+.create-form label{
+    color: whitesmoke !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px !important;
+  }
+  .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #212121;
+    color: whitesmoke;
+    flex-direction: column;
+  }
